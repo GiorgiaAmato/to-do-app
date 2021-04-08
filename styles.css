@@ -29,7 +29,7 @@ h3 {
 .card-container {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     width: 90%;
-    height: 80%;
+    height: 90vh;
     color: rgb(102, 89, 237);
     border-radius: 20px;
     margin:30px;
